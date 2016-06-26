@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:xmls="http://schemas.android.com/apk/res-auto"
+
+    tools:context="com.soldiersofmobile.app.SignUpActivity">
+
+    <item android:id="@+id/action_settings"
+        android:title="Sign_up"
+        android:orderInCategory="100"
+     />/   android:showAsAction="never" />
+</menu>
